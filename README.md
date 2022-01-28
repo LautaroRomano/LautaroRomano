@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-<p>'<?php'<br>
+```php
+<?php
 
-namespace LautaroRomano;<br>
+namespace LautaroRomano;
 
-class About extends Me<br>
-{<br>
-    public function getCurrentWorkplace(): array<br>
-    {<br>
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
         return [
             'workplace' => []
         ];
@@ -30,3 +31,4 @@ class About extends Me<br>
     }
 }
 </p>
+```
