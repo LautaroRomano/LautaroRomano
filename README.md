@@ -1,32 +1,32 @@
 ### Hi there 👋
 
-<p> <?php </p>
+<p>'<?php'<br>
 
-<p> namespace LautaroRomano; </p>
+namespace LautaroRomano;<br>
 
--class About extends Me
--{
--    public function getCurrentWorkplace(): array
--    {
--        return [
--            'workplace' => []
--        ];
--    }
--
--    public function getDailyKnowledge(): array
--    {
--        return [
--            Php::class,
--            Javascript::class,
--            Laravel::class,
--            ReactNative::class,
--            TailwindCss::class,
--        ];
--    }
--
--    public function getFutureGoal(): string
--    {
--        return 'To contribute to open source.';
--    }
--}
--
+class About extends Me<br>
+{<br>
+    public function getCurrentWorkplace(): array<br>
+    {<br>
+        return [
+            'workplace' => []
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            ReactNative::class,
+            TailwindCss::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+</p>
