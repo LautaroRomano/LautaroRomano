@@ -1,34 +1,32 @@
 ### Hi there 👋
 
-```php
-<?php
+```
+const name = Lautaro Romano;
 
-namespace LautaroRomano;
+const About = () => {
+    const getCurrentWorkplace = () => {
+        return {
+            workplace: 'Digicom',
+            webSite: 'https://digicom.net.ar/web/'
+        };
+    }
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => []
+    const getSkills = ()=>{
+        return {
+            ReactJS: 92%,
+            Javascript: 96%,
+            Java: 66%
+            HTML5: 99%,
+            CSS: 79%,
+            Php 57%,
+            ReactNative: 84%,
+            TailwindCss: 71%,
+            BootStrap: 81%,
         ];
     }
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            ReactNative::class,
-            TailwindCss::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
+    const getFutureGoal = ()=>{
         return 'To contribute to open source.';
     }
 }
-</p>
 ```
