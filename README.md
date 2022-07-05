@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-```
+```js
 const name = Lautaro Romano;
 
-const About = () => {
+class About = () => {
     const getCurrentWorkplace = () => {
         return {
             workplace: 'Digicom',
