@@ -2,6 +2,7 @@
 
 - 🔭 Busco mi primera experiencia laboral como Full Stack.
 - 🌱 Actuamente estudiando Java.
+- 🐱‍👤 Portfolio https://lautaroromano.github.io/portfolio/
 
 <div align="center">
   <a href="https://github.com/LautaroRomano">
