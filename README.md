@@ -2,11 +2,10 @@
 
 - 🔭 Busco mi primera experiencia laboral como Full Stack.
 - 🌱 Actuamente estudiando Java.
-- 🐱‍👤 Portfolio https://lautaroromano.github.io/portfolio/
+- 🐱‍👤 Portfolio [https://lautaroromano.github.io/portfolio/](https://romano-lautaro.vercel.app/)
 
 <div align="center">
   <a href="https://github.com/LautaroRomano">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lautaroromano&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaroromano&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -17,9 +16,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="./mysql.svg">
-  
-  
 </div>
   
   ##
